@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd02d0e6-aabd-4c3c-b3da-51401a6f6634" name="Changes" comment="created HelloWorld class">
+    <list default="true" id="dd02d0e6-aabd-4c3c-b3da-51401a6f6634" name="Changes" comment="HelloWorld prints &quot;Hello World&quot;">
       <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +24,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2D6FA6fj77tOW1at59g6jNGHZpc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -56,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660011621433</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HelloWorld prints &quot;Hello World&quot;">
+      <created>1660011960881</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660011960881</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created HelloWorld class" />
-    <option name="LAST_COMMIT_MESSAGE" value="created HelloWorld class" />
+    <MESSAGE value="HelloWorld prints &quot;Hello World&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="HelloWorld prints &quot;Hello World&quot;" />
   </component>
 </project>
